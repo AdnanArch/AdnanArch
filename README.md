@@ -10,7 +10,6 @@ Here are some of the projects I've worked on:
 - **Restaurant Billing System (C++)**: A C++ project for managing billing in a restaurant.
 - **To-Do List App (C++)**: A command-line to-do list application developed in C++.
 - **Hotel Room Management (Java, Java GUI)**: A desktop application for managing hotel room bookings and reservations.
-- (Feel free to mention any other notable projects or achievements)
 
 ## 🌱 Currently Learning
 
