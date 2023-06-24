@@ -1,15 +1,3 @@
-<!-- Header -->
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/AdnanArch" alt="Adnan Rafique" width="200" height="200">
-</p>
-
-# Hi there, I'm Adnan Rafique! 👋
-
-Welcome to my GitHub profile! I'm a passionate computer science student with a love for coding and projects. I enjoy exploring different programming languages and technologies, and I'm constantly seeking new opportunities to expand my skills.
-
-<!-- Rest of the README content -->
-
-
 # Hi there, I'm Adnan Rafique! 👋
 
 Welcome to my GitHub profile! I'm a passionate computer science student with a love for coding and projects. I enjoy exploring different programming languages and technologies, and I'm constantly seeking new opportunities to expand my skills.
