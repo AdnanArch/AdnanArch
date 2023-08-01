@@ -10,7 +10,7 @@
 - [**BMI Calculator (Flutter)**](https://github.com/AdnanArch/BMICalulator-App): A simple Flutter application to calculate Body Mass Index (BMI).
 - [**Restaurant Billing System (C++)**](https://github.com/AdnanArch/Resturant-Billing): A C++ project for managing billing in a restaurant.
 - [**To-Do List App (C++)**](https://github.com/AdnanArch/TODO-List): A command-line to-do list application developed in C++.
-- [**Hotel Room Management (Java, Java GUI)**](https://github.com/AdnanArch/HotelManagmentSystem): A desktop application for managing hotel room bookings and reservations. (Currently Working on it)
+- [**Hotel Room Management (Java, Java GUI)**](https://github.com/AdnanArch/HotelManagmentSystem): A desktop application for managing hotel room bookings and reservations.
 
 <!-- Currently Learning Section -->
 <h2>🌱 Currently Learning</h2>
