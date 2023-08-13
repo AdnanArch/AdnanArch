@@ -15,7 +15,7 @@
 <!-- Currently Learning Section -->
 <h2>🌱 Currently Learning</h2>
 
-<p>I'm currently focused on Android Development and expanding my skills in this area. Additionally, I'm always exploring new technologies and keeping up with the latest advancements in the field of computer science.</p>
+<p>I'm currently focused on Backend Development and expanding my skills in this area. Additionally, I'm always exploring new technologies and keeping up with the latest advancements in the field of computer science.</p>
 
 <!-- Skills Section -->
 <h2>💼 Skills</h2>
