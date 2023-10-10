@@ -30,13 +30,15 @@
   <a href="#"><img alt="Algorithms" src="https://img.shields.io/badge/Algorithms-red?style=flat-square"></a>
 </p>
 
+<h2>💼 My Github Stats</h2>
+
 <!-- GitHub Stats and Top Languages -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AdnanArch&show_icons=true&theme=transparent" alt="Adnan Rafique's GitHub stats" width="450" height="200">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdnanArch&layout=compact&theme=white" alt="Top Languages" width="350" height="200">
 </div>
 
-<h2>💼 My Github Stats</h2>
+
 <div align="center">
   <img src="https://github-readme-streak-stats-gamma-ten.vercel.app?user=AdnanArch&theme=light&background=ffffff" alt="Adnan Rafique's GitHub stats" >
 </div>
