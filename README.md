@@ -38,7 +38,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdnanArch&layout=compact&theme=white" alt="Top Languages" width="350" height="200">
 </div>
 
-
 <div align="center">
   <img src="https://github-readme-streak-stats-gamma-ten.vercel.app?user=AdnanArch&theme=light&background=ffffff" alt="Adnan Rafique's GitHub stats" >
 </div>
