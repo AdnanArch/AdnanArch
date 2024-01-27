@@ -1,5 +1,7 @@
 <h1 align="center">Hi there, I'm Adnan Rafique! 👋</h1>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AdnanArch&label=Profile%20views&color=0e75b6&style=flat" alt="mshahryarsaeed" /> </p>
+
 <p align="center">Welcome to my GitHub profile! I'm a passionate computer science student with a love for coding and projects. I enjoy exploring different programming languages and technologies, and I'm constantly seeking new opportunities to expand my skills.</p>
 
 <!-- Projects Section -->
