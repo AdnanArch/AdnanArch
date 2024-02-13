@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Adnan Rafique! 👋</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AdnanArch&label=Profile%20views&color=0e75b6&style=flat" alt="mshahryarsaeed" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AdnanArch&label=Profile%20views&color=0e75b6&style=flat" alt="adnanrafique" /> </p>
 
 <p align="center">Welcome to my GitHub profile! I'm a passionate computer science student with a love for coding and projects. I enjoy exploring different programming languages and technologies, and I'm constantly seeking new opportunities to expand my skills.</p>
 
@@ -9,15 +9,17 @@
 
 <p>Here are some of the projects I've worked on:</p>
 
+
+- [**Hotel Room Management (Java, Java GUI, Mysql, gradle)**](https://github.com/AdnanArch/HotelManagmentSystem): A desktop application for managing hotel room bookings and reservations.
+- [**A Comprehensive Management System for Pesticides, Seeds, and Fertilizers Company(Java, JavaFx, Mysql, gradle)**](https://github.com/AdnanArch/): A desktop application for managing financial, stock, reporting activites that usually business do. This is Private Repo.
 - [**BMI Calculator (Flutter)**](https://github.com/AdnanArch/BMICalulator-App): A simple Flutter application to calculate Body Mass Index (BMI).
 - [**Restaurant Billing System (C++)**](https://github.com/AdnanArch/Resturant-Billing): A C++ project for managing billing in a restaurant.
 - [**To-Do List App (C++)**](https://github.com/AdnanArch/TODO-List): A command-line to-do list application developed in C++.
-- [**Hotel Room Management (Java, Java GUI)**](https://github.com/AdnanArch/HotelManagmentSystem): A desktop application for managing hotel room bookings and reservations.
 
 <!-- Currently Learning Section -->
 <h2>🌱 Currently Learning</h2>
 
-<p>I'm currently focused on Backend Development and expanding my skills in this area. Additionally, I'm always exploring new technologies and keeping up with the latest advancements in the field of computer science.</p>
+<p>I'm currently focused on Backend Development Spring and expanding my skills in this area. Additionally, I'm always exploring new technologies and keeping up with the latest advancements in the field of computer science.</p>
 
 <!-- Skills Section -->
 <h2>💼 Skills</h2>
@@ -36,8 +38,9 @@
 
 <!-- GitHub Stats and Top Languages -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdnanArch&show_icons=true&theme=transparent" alt="Adnan Rafique's GitHub stats" width="450" height="200">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdnanArch&layout=compact&theme=white" alt="Top Languages" width="350" height="200">
+  
+ "![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AdnanArch&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=buefy)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdnanArch&layout=compact&theme=white" alt="Top Languages" width="350px" height="170">
 </div>
 
 <div align="center">
